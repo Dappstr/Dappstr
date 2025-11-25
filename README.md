@@ -2,7 +2,7 @@
 
 ### 🧱 Tech stack
 <p>
-  <img alt="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)">
+  <img alt="C++" src = "https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)">
   <img alt="Clang/LLVM" src="https://img.shields.io/badge/Clang%2FLLVM-16%2B-262D3A?logo=llvm&logoColor=white">
   <img alt="CMake" src="https://img.shields.io/badge/CMake-Build-064F8C?logo=cmake&logoColor=white">
   <img alt="Rust" src="https://img.shields.io/badge/Rust-Tooling-000000?logo=rust&logoColor=white">
