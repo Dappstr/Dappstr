@@ -9,6 +9,7 @@
   <img alt="CMake" src="https://img.shields.io/badge/CMake-Build-064F8C?logo=cmake&logoColor=white">
   <img alt="AArch64" src="https://img.shields.io/badge/ARM-AArch64-0091BD?logo=arm&logoColor=white">
   <img alt="QEMU" src="https://img.shields.io/badge/QEMU-Emulator-FF6600?logo=qemu&logoColor=white">
+  <img alt = "Zed" src="https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white">
   <img alt="Neovim" src="https://img.shields.io/badge/Neovim-IDE-57A143?logo=neovim&logoColor=white">
   <img alt="macOS" src="https://img.shields.io/badge/macOS-Apple%20Silicon-000000?logo=apple&logoColor=white">
 </p>
