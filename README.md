@@ -1,7 +1,7 @@
 <!--[![Dappster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dappstr)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-Hello, my name is Lane! I'm mostly a C++ and Rust focused programmer whom is interested in making programming languages and other systems programming projects!
+Hello, my name is Lane! I'm mostly a C++ and Rust focused programmer whom is interested in making programming languages and other systems programming projects, as well as working in the quantitative development realm!
 
 ### 🧱 Tech stack
 <p>
