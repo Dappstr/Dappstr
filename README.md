@@ -3,6 +3,8 @@
 
 Hello, my name is Lane! I'm mostly a C++ and Rust focused programmer whom is interested in making programming languages and other systems programming projects, as well as working in the quantitative development realm!
 
+Ich bin lernen Deutch! 🇩🇪
+
 ### 🧱 Tech stack
 <p>
   <img alt="C++" src = "https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)">
